@@ -1,5 +1,5 @@
-
 //Write a program to print span of input number mean differences of maximum value and minimum value.
+
 import java.util.*;
 
 public class Span {
@@ -28,7 +28,7 @@ public class Span {
         }
         System.out.println("The maximum value of the array is :" + max);
         System.out.println("The minimum value of the array is :" + min);
-        
+
         int span = max - min;
         System.err.println("The span is :-->" + span);
     }
