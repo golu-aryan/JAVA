@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Calculate the sum of all the elements in the given array
 public class sum {
     public static void main(String[] args) {
         Scanner n = new Scanner(System.in);
