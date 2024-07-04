@@ -17,5 +17,7 @@ public class hypotenuse {
         z = Math.sqrt((x*x)+(y*y));
 
         System.out.println(z);
+
+        sc.close();
     }
 }
