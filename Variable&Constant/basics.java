@@ -1,4 +1,4 @@
-public class main {
+public class basics {
     public static void main (String[] args){
         String x = "Water";
         String y = "Kool-Acid";

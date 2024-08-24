@@ -1,5 +1,5 @@
 
-public class main {
+public class wrapper {
     public static void main(String[] args) {
         //Wrapper class = Provides a way to use primitive data types as reference data types
         //                reference data types contain useful methods
