@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 //2D ArrayList= a dynamic list of list..you can change the size of these lists during runtime
 
-public class main {
+public class arraylist {
     public static void main(String[] args) {
 
         ArrayList<ArrayList<String>> groceryList = new ArrayList<>();
@@ -31,6 +31,6 @@ public class main {
 
         System.out.println(groceryList.get(2));
 
-
+        
     }
 }
