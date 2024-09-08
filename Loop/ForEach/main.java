@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+
 //For each = Traversing technique to iterate through the elements in an array/collection
 //less steps, more readable, less flexible
 public class main {
