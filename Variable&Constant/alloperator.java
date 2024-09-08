@@ -15,5 +15,7 @@ public class alloperator {
         System.out.println("Subtraction= " + (a - b));
         System.out.println("Module = " + (a % b));
         System.out.println("Divide = " + (a / b));
+
+        n.close();
     }
 }
