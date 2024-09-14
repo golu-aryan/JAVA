@@ -18,5 +18,6 @@ public class Capitalize {
             upper_case_line += Character.toUpperCase(word.charAt(0))+word.substring(1) + " ";
         }
         System.out.println(upper_case_line.trim());
+        in.close();
     }
 }
