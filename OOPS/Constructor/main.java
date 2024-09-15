@@ -24,7 +24,7 @@ public class main {
         human h = new human("aryan", 21,60);
         human human = new human("aprajita", 20,50);
 
-        human.eat();
+        h.eat();
         human.drink();
     }
 }
