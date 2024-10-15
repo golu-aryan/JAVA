@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class excontinue {
     public static void main(String[] args) {

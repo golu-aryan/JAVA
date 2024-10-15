@@ -11,5 +11,6 @@ public class count{
             count++;
         }
         System.out.println("The number of digit is :" + count);
+        s.close();
     }
 }
