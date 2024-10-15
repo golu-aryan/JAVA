@@ -32,6 +32,6 @@ public class printno {
             div /= 10;
 
         }
-
+        sc.close();
     }
 }
