@@ -14,5 +14,6 @@ public class blank {
         }
 
         System.out.println("Hello " + name);
+        n.close();
     }
 }

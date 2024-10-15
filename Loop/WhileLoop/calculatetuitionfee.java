@@ -8,8 +8,6 @@ public class calculatetuitionfee {
         double feeperSubj = 1000;
         int totalfee = 0;
         double finalfee;
-        String indication;
-
         System.out.print("Do you want to calculate tuition fee for academic year [y/n] :-> ");
         String userChoice = scanner.nextLine();
 
