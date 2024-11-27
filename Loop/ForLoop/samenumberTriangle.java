@@ -8,4 +8,5 @@ public class samenumberTriangle {
             System.out.println();
         }
     }
+
 }
