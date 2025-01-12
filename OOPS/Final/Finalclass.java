@@ -1,11 +1,11 @@
 
 
-final class A{      
+final class Ar{
     void display(){
         System.out.println("Base Class");
     }
 } 
-class B extends A{    //A final class cannot be inherited or extend
+class B extends Ar{    //A final class cannot be inherited or extend
     void display1(){
         System.out.println("Derived class");
     }
