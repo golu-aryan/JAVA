@@ -20,7 +20,6 @@ public class arraylist {
 
 
         ArrayList<String> DrinkList = new ArrayList();
-
         DrinkList.add("Soda");
         DrinkList.add("Coffee");
         DrinkList.add("Juice");
@@ -30,7 +29,5 @@ public class arraylist {
         groceryList.add(DrinkList);
 
         System.out.println(groceryList.get(2));
-
-        
     }
 }

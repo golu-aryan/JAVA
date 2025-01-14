@@ -10,9 +10,12 @@ public class Arraylist {
         food.add("Egg");
         food.set(0,"Burger");
 
-        for(int i = 0; i < food.size(); i++){
-            System.out.println(food.get(i));
+        // for(int i = 0; i < food.size(); i++){
+        //     System.out.println(food.get(i));
+        // }
 
+        for (String foods : food) {
+            System.out.println(foods);
         }
     }
 }
