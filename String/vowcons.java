@@ -2,25 +2,23 @@ import java.util.Scanner;
 
 public class vowcons {
     public static void main(String[] args) {
-        String s = new String();
-        int vol = 0, con = 0;
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the string");
-        s = sc.nextLine();
+        Scanner scanner = new Scanner(System.in);
+        char ch;
+        int vowel = 0, consonants = 0;
+        System.out.print("Enter any String :-> ");
+        String string = scanner.nextLine();
 
-        s = s.toUpperCase();
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c != ' ') {
-                if (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U') {
-                    vol++;
-                } else {
-                    con++;
-                }
+        for (int i = 0; i < string.length(); i++) {
+            ch = string.charAt(i);
+            if ((ch == 'A' || ch == ('a')) || (ch == 'E' || ch == 'e') || (ch == 'I' || ch == 'i')
+                    || (ch == 'O' || ch == 'o') || (ch == 'U' || ch == 'u')) {
+                vowel++;
+            } else {
+                consonants++;
             }
         }
-        System.out.println("Number of vowels are " + vol);
-        System.out.println("Number of consonants are " + con);
-
+        System.out.println("Total Vowels in String " + string + " is :-> " + vowel);
+        System.out.println("Total Consonants in String " + string + " is :-> " + consonants);
+        scanner.close();
     }
 }
