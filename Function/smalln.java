@@ -13,7 +13,7 @@ public class smalln {
         System.out.println("Enter third number:\n");
         int w = q.nextInt();
 
-        System.out.println("The smallest value is" + smallest(n, v, w) + "\n");
+        System.out.println("The smallest value is " + smallest(n, v, w) + "\n");
     }
     public static int smallest(int x, int y, int z) {
         return Math.min(Math.min(x, y), z);
