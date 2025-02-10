@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class count{
+public class cnt {
     public static void main(String[] args){
         String s = new String();
         Scanner cs = new Scanner(System.in);
