@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="492b604a-3c8c-4b0f-9eda-7975fbb32544" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Exception Handling/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception_Handling/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exception Handling/ThrowInvalidEdge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exception_Handling/ThrowInvalidEdge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Keyword/f.java" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Keyword/f.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/OverloadedMethods/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Attendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/BoardingPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/BoardingPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/CouponCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/CouponCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/DigitorAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/DigitorAlphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Divisible.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Divisible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/EMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/EMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/ElictricityBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/ElictricityBill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/IRCTC.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/IRCTC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Life_insurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Life_insurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Maximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Maximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/PNR.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/PNR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/PaymentMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/PaymentMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/ProductRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/ProductRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Quota.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Quota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/SeatAvailable.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/SeatAvailable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Shoppingplatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Shoppingplatform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/TransactionUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/TransactionUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/attend.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/attend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/axis.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/axis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/bookingCancellation.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/bookingCancellation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/bookingConfirmation.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/bookingConfirmation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/carAmount.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/carAmount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/cashOnDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/cashOnDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/checkevenornot.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/checkevenornot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/childFare.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/childFare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/deliveryspeed.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/deliveryspeed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/eligible.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/eligible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/evenodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/evenodd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/finalprice.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/finalprice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/giftwrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/giftwrapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/gradeEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/gradeEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/greaterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/greaterno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/in_Built.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/in_Built.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/incomeProfession.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/incomeProfession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/insurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/insurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/interestRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/interestRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/isDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/isDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/ispresent.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/ispresent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/leapyear.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/leapyear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/lifeinsurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/lifeinsurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/loaninterestrate.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/loaninterestrate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/maturityamount.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/maturityamount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/membersShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/membersShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/membership.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/membership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/optionalinsurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/optionalinsurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/orderinvoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/orderinvoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/overdraftFacility.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/overdraftFacility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/paymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/paymentMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/paymentOffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/paymentOffers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/personEligible.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/personEligible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/productavailableforpurchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/productavailableforpurchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/producteligible.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/producteligible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/productsize.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/productsize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/profession.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/profession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/pythagoreantriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/pythagoreantriplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/reviewofproducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/reviewofproducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/shipingAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/shipingAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/surrender.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/surrender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/tolowercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/tolowercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/touppercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/touppercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/traingleValidity.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/traingleValidity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/travelinsurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/travelinsurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/upgradeEligibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/upgradeEligibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If-Else/waitlistRac.java" beforeDir="false" afterPath="$PROJECT_DIR$/If_Else/waitlistRac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/vowcons.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/vowcons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/HotelAmenities.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/HotelAmenities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/LibraryMemberShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/LibraryMemberShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/MILES.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/MILES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/SimpleArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/SimpleArithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/USD_INR.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/USD_INR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/UserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/Variable Scope/dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/Variable Scope/dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/Variable Scope/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/alloperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/alloperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/area.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/celcius.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/celcius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/changeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/changeTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/circleradius.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/circleradius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/convertstringtoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/convertstringtoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/distancespeed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/distancespeed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/gst.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/gst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/hostingEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/hostingEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/kg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/kg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/loyalitypoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/loyalitypoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/massvolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/massvolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/math.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/milkTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/milkTank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/nextolast.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/nextolast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/ownscar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/ownscar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/parkingCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/parkingCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/princrateduration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/princrateduration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/seasonablediscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/seasonablediscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/stringtolowercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/stringtolowercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/studentmarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/studentmarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/tax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/timechange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/timechange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/traingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/traingle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/ttlEarning.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/ttlEarning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variable&amp;Constant/unitprice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Variable_Constant/unitprice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wrapper class/wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wrapper_class/wrapper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Projects/Menu.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nbDDMj56AmhxnSzZqQgmR40AFe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Menu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.commandLineArgument.executor&quot;: &quot;Coverage&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="commandLineArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="commandLineArgument" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.commandLineArgument" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="492b604a-3c8c-4b0f-9eda-7975fbb32544" name="Changes" comment="" />
+      <created>1729232762068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729232762068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA$commandLineArgument.ic" NAME="commandLineArgument Coverage Results" MODIFIED="1735464515465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
